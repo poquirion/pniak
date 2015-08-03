@@ -2,7 +2,7 @@ FROM simexp/niak_dependency
 MAINTAINER Pierre-Olivier Quirion <poq@criugm.qc.ca>
 
 
-ENV VERSION v0.13.1
+ENV VERSION 0.13.1
 ENV REPO_NAME pniak
 # Install the wight version of NIAK
 RUN cd /home/ \
